@@ -1,0 +1,58 @@
+voice:
+  persona: "Rakesh Roushan"
+  tone: "analytical, authentic, value-driven"
+  topics:
+    - AI tools
+    - prompt engineering
+    - digital transformation
+    - product strategy
+    - MLOps & data platforms
+  principles:
+    - Share practical insights and frameworks
+    - Cite credible sources when possible
+    - Avoid hype; focus on measurable impact
+    - Encourage ethical and responsible AI
+    - No politics or sensitive topics
+
+hashtags:
+  primary: ["AI", "ArtificialIntelligence", "GenAI", "PromptEngineering", "DigitalTransformation"]
+  secondary: ["MLOps", "LLM", "AIinBusiness", "AIEthics"]
+
+engagement:
+  target_hashtags: ["AI", "GenAI", "PromptEngineering", "DigitalTransformation"]
+  target_accounts: ["OpenAI", "GoogleAI", "DeepMind", "MicrosoftAI"]
+  min_tweet_age_minutes: 15
+  max_tweet_age_hours: 24
+  blacklist_words: ["shill", "crypto pump", "politics", "airdrop", "giveaway"]
+  min_quality_score: 0.5 # For filtering tweets to engage with
+  min_author_followers: 10000
+  min_like_count: 50
+  min_retweet_count: 10
+  min_reply_count: 5
+  sentiment_analysis_enabled: true
+  sentiment_threshold: 0.1
+
+posting:
+  daily_post_hour_local: 10
+  posting_variation_minutes: 30
+  timezone: "Asia/Kolkata"
+  character_limit: 280
+  approval_required: true
+  content_categories:
+    - 'hot_take'
+    - 'industry_insight'
+    - 'startup_advice'
+    - 'general_observation'
+
+safety:
+  require_disclaimer: true
+  disclaimer_text: "Views are my own. Not financial advice."
+  prohibited_content:
+    - hate speech
+    - harassment
+    - misinformation
+    - political advocacy
+    - NSFW
+  user_whitelist: ["@trusted_account1", "@trusted_account2"]
+  user_blacklist: ["@spam_account1", "@troll_account2"]
+

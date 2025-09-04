@@ -1,0 +1,294 @@
+{
+  "replied_tweets": {},
+  "used_rss_posts": {
+    "paulg:7013394": "2025-09-04T03:16:27.086727",
+    "sama:3522432": "2025-09-04T03:16:51.797072",
+    "balajis:9148286": "2025-09-04T03:24:40.169064",
+    "sama:3117212": "2025-09-04T03:25:46.244023",
+    "balajis:1690584": "2025-09-04T16:45:45.826427",
+    "balajis:269287": "2025-09-04T16:46:51.332884",
+    "levelsio:9487954": "2025-09-04T16:47:35.420220",
+    "AndrewYNg:2579988": "2025-09-04T16:49:39.762842",
+    "balajis:6429494": "2025-09-04T16:49:48.056181",
+    "ylecun:5745143": "2025-09-04T16:51:44.428804",
+    "naval:3560071": "2025-09-04T16:58:02.591731"
+  },
+  "email_content": [
+    {
+      "content": "47a44d306a8b979e",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-03T18:09:48.302382"
+    },
+    {
+      "content": "c6f9e35936b64de7",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-03T18:31:50.625131"
+    },
+    {
+      "content": "adca38c1b4dd2144",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T00:31:52.001353"
+    },
+    {
+      "content": "96bf298607813dd8",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T01:32:04.979168"
+    },
+    {
+      "content": "3eb9e6e5ba08d6c2",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T02:31:16.341485"
+    },
+    {
+      "content": "4d1c1d1aa316505e",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T03:31:10.490190"
+    },
+    {
+      "content": "3e5997b59fea7245",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T04:31:38.110364"
+    },
+    {
+      "content": "8adc25d21cb012a3",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T05:32:00.633643"
+    },
+    {
+      "content": "c909e096d2eeb28a",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T06:31:13.851405"
+    },
+    {
+      "content": "c9513b97049f476e",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T07:31:29.469321"
+    },
+    {
+      "content": "a4d333d3a4b9a2da",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T08:31:37.341038"
+    },
+    {
+      "content": "b51ae1c39a5e2ba4",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T09:32:09.062672"
+    },
+    {
+      "content": "151d713e308b240c",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T10:31:10.636928"
+    },
+    {
+      "content": "ceb659fbe49b1273",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T11:31:20.321316"
+    },
+    {
+      "content": "84f127e5c396427e",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T12:31:30.071363"
+    },
+    {
+      "content": "7489694e42aeeb44",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T13:31:41.087139"
+    },
+    {
+      "content": "1d1fc01f924bf818",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T14:31:52.125144"
+    },
+    {
+      "content": "4ebf48c4bce531b5",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T15:32:01.026333"
+    },
+    {
+      "content": "d01d4d14b42ec2dc",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T16:31:12.629685"
+    },
+    {
+      "content": "b0122b929903c6fd",
+      "content_type": "personal",
+      "original_type": "",
+      "context": "",
+      "timestamp": "2025-09-04T17:32:06.950174"
+    }
+  ],
+  "posted_content": [
+    {
+      "content": "Most SaaS founders obsess over features instead of solving real problems",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "SaaS startup advice",
+      "timestamp": "2025-09-03T18:07:28.517106"
+    },
+    {
+      "content": "Startup advice for new entrepreneurs",
+      "content_type": "personal",
+      "original_type": "advice",
+      "context": "business",
+      "timestamp": "2025-09-03T18:08:03.108281"
+    },
+    {
+      "content": "Technology news and industry updates",
+      "content_type": "news",
+      "original_type": "news",
+      "context": "tech",
+      "timestamp": "2025-09-03T18:08:03.108607"
+    },
+    {
+      "content": "Most SaaS founders obsess over features instead of solving real problems",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "SaaS startup advice",
+      "timestamp": "2025-09-03T18:08:03.112693"
+    },
+    {
+      "content": "Most SaaS founders obsess over features instead of problems",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "SaaS advice",
+      "timestamp": "2025-09-03T18:08:32.016539"
+    },
+    {
+      "content": "Many SaaS builders focus on features rather than customer needs",
+      "content_type": "personal",
+      "original_type": "advice",
+      "context": "SaaS strategy",
+      "timestamp": "2025-09-03T18:08:32.022265"
+    },
+    {
+      "content": "OpenAI announces GPT-5 breakthrough",
+      "content_type": "news",
+      "original_type": "news",
+      "context": "AI announcement",
+      "timestamp": "2025-09-03T18:08:32.022798"
+    },
+    {
+      "content": "Building better products requires deep user understanding",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "product strategy",
+      "timestamp": "2025-09-03T18:08:32.027548"
+    },
+    {
+      "content": "Founders should prioritize customer problems over feature lists",
+      "content_type": "personal",
+      "original_type": "advice",
+      "context": "startup wisdom",
+      "timestamp": "2025-09-03T18:08:32.031437"
+    },
+    {
+      "content": "Plot twist: Most AI startups are solving the wrong problem. I've audited 50+ AI SaaS products this year. 80% focus on \"making AI smarter.\"\n\nThe real opportunity? Making AI outputs more actionable. Example: Don't build better content generators. \ud83e\uddf5",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T03:10:04.435004"
+    },
+    {
+      "content": "When governments use regulatory power to punish institutions for their views, it sets a dangerous precedent for all of us. Today it's universities, tomorrow it could be startups that don't align with political winds. Constitutional protections exist to shield innovation from political retaliation.",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T03:16:27.087023"
+    },
+    {
+      "content": "Your startup's cash reserves face the same risks as any fiat currency: debasement through inflation, freezing via banking restrictions, or seizure through regulatory action. Smart founders are diversifying into assets that can't be printed, frozen, or confiscated. Store value like you store code - distributed and resilient.",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T03:24:40.169470"
+    },
+    {
+      "content": "When institutional money managers start diversifying away from traditional assets, it signals deeper structural shifts. For startups: consider how currency volatility affects your global customers, pricing strategy, and treasury management. The macro environment shapes micro decisions more than we think.",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T16:45:45.826852"
+    },
+    {
+      "content": "Smart money is quietly repositioning. When institutional giants start hedging against traditional systems, it's a signal for founders to think differently about treasury management and long-term value storage. The playbook that worked for the last decade might not work for the next.",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T16:46:51.333293"
+    },
+    {
+      "content": "Developer marketing isn't just about flashy campaigns\u2014it's about meeting devs where they are, speaking their language, and solving real problems they face daily. The best dev tools win through community, not just budget. Word-of-mouth is powerful, but it needs strategic amplification to scale.",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T16:47:35.420908"
+    },
+    {
+      "content": "The gap between what CS programs teach and what startups need is widening fast. New grads know algorithms but not prompt engineering. Smart founders are building internal AI training programs to bridge this gap - it's becoming a competitive advantage in talent acquisition. \ud83e\udde0",
+      "content_type": "news",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T16:49:39.763477"
+    },
+    {
+      "content": "Central banks quietly moving away from dollar reserves signals a fundamental shift in global finance. For SaaS founders: this monetary uncertainty creates opportunities for fintech solutions, alternative payment rails, and treasury management tools. Build for the new financial reality \ud83c\udfd7\ufe0f",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T16:49:48.057278"
+    },
+    {
+      "content": "Building sovereign tech infrastructure isn't just about AI models\u2014it's about data sovereignty, cultural context, and economic independence. SaaS founders: consider how your products handle local regulations, data residency, and cultural nuances. Global scale requires local understanding. \ud83c\udf0d",
+      "content_type": "personal",
+      "original_type": "insight",
+      "context": "",
+      "timestamp": "2025-09-04T16:51:44.429277"
+    }
+  ],
+  "content_themes": {
+    "AI-powered monetization unlocking creator economy potential": "2025-09-04T12:31:30.072096",
+    "AI-powered monetization for content creators": "2025-09-04T13:31:41.087810",
+    "Atlassian's $610M acquisition of Arc browser developer - AI browsers disrupting productivity": "2025-09-04T14:31:52.125641",
+    "AI eating entry-level jobs while creating uncertainty in workforce": "2025-09-04T15:32:01.026850",
+    "Atlassian's $610M acquisition of Arc browser developer - AI browsers revolution": "2025-09-04T16:31:12.630233",
+    "Atlassian's $610M acquisition of Arc developer browser - AI-powered developer tools consolidation": "2025-09-04T17:32:06.950722"
+  }
+}
