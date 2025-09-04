@@ -1,0 +1,89 @@
+# Email Pipeline Configuration
+
+email:
+  from_address: "support@audiopod.ai"
+  to_address: "rakesh@audiopod.ai"
+  
+  # AWS SES Configuration
+  aws:
+    region: "us-east-1"  # SES region
+    access_key_id: "${AWS_ACCESS_KEY_ID}"
+    secret_access_key: "${AWS_SECRET_ACCESS_KEY}"
+  
+  # FastMail SMTP Configuration (alternative to SES)
+  fastmail:
+    smtp_server: "smtp.fastmail.com"
+    smtp_port: 587
+    username: "support@audiopod.ai"
+    password: "${FASTMAIL_PASSWORD}"
+
+# Content Pipeline Settings
+pipeline:
+  # Hourly schedule (IST timezone)
+  start_hour: 6   # 6 AM IST
+  end_hour: 24    # 12 AM IST (midnight)
+  
+  # Content distribution (based on strategy)
+  content_pillars:
+    educational: 0.4    # 40%
+    personal: 0.3       # 30%
+    insight: 0.2        # 20%
+    interactive: 0.1    # 10%
+  
+  # Target profiles for engagement analysis
+  target_profiles:
+    - username: "alliekmiller"
+      focus: "AI/ML education and implementation"
+      engagement_style: "technical insights with practical examples"
+    
+    - username: "mattshumer_"
+      focus: "AI research and technical optimization"
+      engagement_style: "deep technical discussions with specific results"
+    
+    - username: "officiallogank"
+      focus: "entrepreneurship and growth strategies"  
+      engagement_style: "metrics-driven insights with specific numbers"
+
+# Content Templates and Frameworks
+content:
+  # Viral thread frameworks from the strategy
+  thread_frameworks:
+    - listicle
+    - problem_solution
+    - storytelling
+    - before_after_bridge
+    - contrarian
+  
+  # SaaS/Startup context for Rakesh
+  contexts:
+    industry: "SaaS and startup ecosystem"
+    role: "founder and builder"
+    expertise: ["product development", "team building", "customer acquisition", "business strategy"]
+    
+  # Optimal posting times for tech audience (IST)
+  optimal_times:
+    - "9:00 AM"
+    - "11:00 AM" 
+    - "2:00 PM"
+    - "5:00 PM"
+    - "7:00 PM"
+    - "9:00 PM"
+
+# Growth Strategy Reminders
+growth:
+  daily_framework:
+    total_time: 35  # minutes
+    cold_engagement: 10  # minutes
+    warm_engagement: 10  # minutes
+    content_creation: 15  # minutes
+  
+  kpis:
+    - engagement_rate
+    - profile_visits
+    - impressions
+    - follower_growth_rate
+  
+  targets:
+    phase_1_goal: 10000   # followers (days 1-30)
+    phase_2_goal: 50000   # followers (days 31-60)
+    phase_3_goal: 100000  # followers (days 61-90)
