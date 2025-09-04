@@ -1,0 +1,99 @@
+[tool.poetry]
+name = "twitter-automation-bot"
+version = "1.0.0"
+description = "AI-powered Twitter automation platform with email content pipeline"
+authors = ["Rakesh Roushan <rakesh@audiopod.ai>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.10"
+# Core dependencies
+click = "^8.2.1"
+pydantic = "^2.10.5"
+python-dotenv = "^1.0.1"
+pyyaml = "^6.0.2"
+pytz = "^2024.2"
+
+# Database
+sqlalchemy = "^2.0.36"
+psycopg2-binary = "^2.9.10"
+
+# AI providers
+google-generativeai = "^0.8.3"
+anthropic = "^0.41.0"
+openai = "^1.57.4"
+
+# Twitter API
+tweepy = "^4.14.0"
+
+# Web scraping
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
+lxml = "^5.3.0"
+
+# Email (smtplib is part of Python standard library)
+
+# HTTP/async
+httpx = "^0.28.1"
+
+# Utilities
+tenacity = "^9.0.0"
+schedule = "^1.2.2"
+cryptography = "^44.0.0"
+passlib = "^1.7.4"
+
+# Web framework for OAuth
+flask = "^3.1.2"
+feedparser = "^6.0.11"
+scikit-learn = "^1.7.1"
+nltk = "^3.9.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+pytest-asyncio = "^0.25.0"
+pytest-cov = "^6.0.0"
+black = "^24.10.0"
+isort = "^5.13.2"
+flake8 = "^7.1.1"
+mypy = "^1.14.0"
+
+[tool.poetry.scripts]
+twitter-bot = "cli.main:cli"
+oauth-server = "integrations.oauth_server:main"
+email-scheduler = "background.scheduler:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 88
+target-version = ['py310']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 88
+known_first_party = ["twitter_bot"]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+ignore_missing_imports = true

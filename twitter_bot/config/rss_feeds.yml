@@ -1,0 +1,43 @@
+# RSS Feed URLs for Twitter Profiles
+# Add RSS feed URLs here for each profile to enable real tweet fetching
+
+rss_feeds:
+  # RSS feeds mapped to exact Twitter usernames (without @)
+  naval: "https://rss.app/feeds/vEzfhtbwgIWBXeIp.xml"
+  sama: "https://rss.app/feeds/2uyUg89pUm8fBU13.xml"
+  AndrewYNg: "https://rss.app/feeds/Rm9E0iJ5Qkub88Rr.xml"
+  alliekmiller: "https://rss.app/feeds/BL9qA286N9HAtg2z.xml"
+  mattshumer_: "https://rss.app/feeds/q4q7belL5BOwoZew.xml"
+  officiallogank: "https://rss.app/feeds/aaC2RzsYsqjuTG53.xml"
+  balajis: "https://rss.app/feeds/RMj4gebZu5Krssy2.xml"
+  ylecun: "https://rss.app/feeds/LfS3w8WqdUfWfC3P.xml"
+  paulg: "https://rss.app/feeds/IglEDTCtnTwkWBtp.xml"
+  levelsio: "https://rss.app/feeds/4Hsje128OX0aX5wU.xml"
+  
+  # Add more feeds below (please share the RSS.app URLs):
+  # alliekmiller: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # mattshumer_: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # officiallogank: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # sama: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # balajis: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # chrissacca: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # AndrewYNg: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # ylecun: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # dharmesh: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # paulg: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # levelsio: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # agazdecki: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # justinkan: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # harryhurst: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # jessicamliving: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # waitbutwhy: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # sweatystartup: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # davegerhardt: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+  # randfish: "https://rss.app/feeds/YOUR_FEED_ID.xml"
+
+# Instructions:
+# 1. Go to https://rss.app/
+# 2. Enter the Twitter profile URL (e.g., https://x.com/naval)
+# 3. Generate RSS feed
+# 4. Copy the RSS feed URL here
+# 5. Format: username: "RSS_URL"
